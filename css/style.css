@@ -1,0 +1,70 @@
+body {
+  background: #1565c0;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+}
+#perfil {
+  min-width: 30vh;
+  max-width: 30vh;
+  border: solid 4px #1a237e;
+  border-radius: 180px;
+  color: rgb(42, 42, 42);
+  box-shadow: -10px 1.3px 6px;
+}
+.redes {
+  min-width: 5.3vh;
+  max-width: 5.3vh;
+  margin-top: 10px;
+}
+section {
+  margin: 0 auto;
+  max-width: 75vh;
+  min-height: 42.5vh;
+}
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0 auto;
+  font-weight: 700;
+}
+p {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0 auto;
+  font-weight: 500;
+  margin-right: -2.2px;
+  line-height: 20px;
+}
+nav ul li {
+  display: block;
+  padding: 36px;
+  margin-right: 40px;
+  margin-bottom: 0px;
+}
+section nav ul li a {
+  padding: 6px;
+  color: rgb(15, 15, 15);
+  font-weight: 800;
+  font-size: 20px;
+  text-transform: capitalize;
+  text-decoration: none;
+  background: #4fc3f7;
+  border: solid 3.5px #311b92;
+  box-shadow: -3px 3px 1px black;
+}
+section ul li a:hover {
+  background: #ffe082;
+}
+hr {
+  border: solid 1.5px #ffff00;
+  margin-right: -0.2px;
+}
+footer p {
+  color: black;
+  display: inline-block;
+  height: 2vh;
+  padding: 2vh;
+  letter-spacing: 5px;
+  text-align: center;
+  line-height: 20px;
+  text-shadow: 8px 3px 8px;
+}
